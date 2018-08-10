@@ -18,7 +18,7 @@ Includes the smart contracts belong to FundersToken.
 
 #### Services
 
-The service smart contracts on FsTK decentralised platform (engine), can be invoked via `transferAndCall`-ing **Smart Asset** or **FST Service Gas**.
+The service smart contracts on FsTK decentralised platform (engine), can be invoked via `transferAndCall`-ing **Smart Asset** and consuming **FST Service Gas**.
 
 #### Smart Asset
 
