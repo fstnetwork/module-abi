@@ -8,7 +8,7 @@ A service smart contract for the issuers to set the budget of the certain **Smar
 
 #### Campaign Service
 
-A service smart contract for the issuers to create the campaigns for **Smart Asset**, including **Basic Token Campaign** and *Basic Voucher Campaign*.
+A service smart contract for the issuers to create the campaigns for **Smart Asset**, including **Basic Token Campaign** and **Basic Voucher Campaign**.
 
 #### FST Sales Service
 
