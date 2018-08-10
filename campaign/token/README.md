@@ -2,7 +2,7 @@
 
 ### How to create
 
-It can only be created via **BasicTokenCampaignService**, in **Services** directory.
+Can only be created via **BasicTokenCampaignService**, in **Services** directory.
 
 ### Basic usage
 
