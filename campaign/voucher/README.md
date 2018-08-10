@@ -2,7 +2,7 @@
 
 ### How to create
 
-It can only be created via **BasicVoucherCampaignService**, in **Services** directory.
+Can only be created via **BasicVoucherCampaignService**, in **Services** directory.
 
 ### Basic usage
 
